@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Back-End Repo <a name="live-demo"></a>
 
-- [Repo Link](https://github.com/Kumilachew-g/hello-rails-back-end)
+[Back-End Repo Link](https://github.com/Kumilachew-g/hello-rails-back-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,8 +151,6 @@ Example command:
    npm install
 ```
 
--
-
 ### Usage
 
 To run the project, execute the following command:
@@ -162,8 +160,6 @@ Example command:
 ```sh
   npm start
 ```
-
--
 
 <!-- ### Run tests
 
