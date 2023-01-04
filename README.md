@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello React Front-End] <a name="about-project"></a>
+# 📖 Hello React Front-End <a name="about-project"></a>
 
 > Project Descriptions
 
